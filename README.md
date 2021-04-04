@@ -59,8 +59,8 @@
         <tr>
             <td><a href="#"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            <td><a href="#"><img alt="Symfony" title="Symfony" height="28px"
+                        src="https://symfony.com/logos/symfony_black_03.png" /></a>
             </td>
             <td><a href="#"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
