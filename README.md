@@ -98,5 +98,18 @@
             <td><a href="#"><img alt="Git" title="Git" height="28px"
                         src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" /></a></td>
         </tr>
+          <tr>
+            <td><a href="#"><img alt="PHPStorm" title="PHPStorm" height="28px"
+                        src="https://logonoid.com/images/phpstorm-logo.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Brackets" title="Brackets" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" /></a></td>
+            <td><a href="#"><img alt="Socket.io" title="Socket.io" height="28px"
+                        src="https://socket.io/images/favicon.png" /></a></td>
+            <td><a href="#"><img alt="OOP" title="OOP" height="28px"
+                        src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-512.png" /></a></td>
+            <td><a href="#"><img alt="Git" title="Git" height="28px"
+                        src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" /></a></td>
+        </tr>
     </tbody>
 </table>
