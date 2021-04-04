@@ -79,8 +79,8 @@
             </td>
             <td><a href="#"><img alt="Matlab" title="Matlab" height="28px"
                         src="https://marka-logo.com/wp-content/uploads/2020/12/MATLAB-Logo.png" /></a></td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
+            <td><a href="#"><img alt="BootStrap" title="BootStrap" height="28px"
+                        src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
