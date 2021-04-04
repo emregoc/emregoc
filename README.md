@@ -95,8 +95,8 @@
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
             <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+            <td><a href="#"><img alt="Git" title="Git" height="28px"
+                        src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" /></a></td>
         </tr>
     </tbody>
 </table>
