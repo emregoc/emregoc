@@ -83,10 +83,10 @@
                         src="https://marka-logo.com/wp-content/uploads/2020/12/MATLAB-Logo.png" /></a></td>
             <td><a href="#"><img alt="Socket.io" title="Socket.io" height="28px"
                         src="https://socket.io/images/favicon.png" /></a></td>
-            <td><a href="#"><img alt="OOP" title="OOP" height="28px"
-                        src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-512.png" /></a></td>
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio" height="28px"
+                        src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" /></a></td>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
             </td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
