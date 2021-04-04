@@ -55,59 +55,55 @@
             <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
+            <td><a href="#"><img alt="BootStrap" title="BootStrap" height="28px"
+                        src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" /></a></td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="#"><img alt="Symfony" title="Symfony" height="28px"
+           <td><a href="#"><img alt="Symfony" title="Symfony" height="28px"
                         src="https://symfony.com/logos/symfony_black_03.png" /></a>
             </td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
-                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
             <td><a href="#"><img alt="Laravel" title="Laravel" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" /></a>
             </td>
+            <td><a href="#"><img alt="Java" title="Java" height="28px"
+                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td> 
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
+              <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+             <td><a href="#"><img alt="C++" title="C++" height="28px"
+                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
+            </td>           
         </tr>
         <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-            </td>
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
             <td><a href="#"><img alt="Matlab" title="Matlab" height="28px"
                         src="https://marka-logo.com/wp-content/uploads/2020/12/MATLAB-Logo.png" /></a></td>
-            <td><a href="#"><img alt="BootStrap" title="BootStrap" height="28px"
-                        src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" /></a></td>
+            <td><a href="#"><img alt="Socket.io" title="Socket.io" height="28px"
+                        src="https://socket.io/images/favicon.png" /></a></td>
+            <td><a href="#"><img alt="OOP" title="OOP" height="28px"
+                        src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-512.png" /></a></td>
+            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            </td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-            </td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
-                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="#"><img alt="Git" title="Git" height="28px"
-                        src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" /></a></td>
-        </tr>
-          <tr>
-            <td><a href="#"><img alt="PHPStorm" title="PHPStorm" height="28px"
+             <td><a href="#"><img alt="PHPStorm" title="PHPStorm" height="28px"
                         src="https://logonoid.com/images/phpstorm-logo.png" /></a>
             </td>
             <td><a href="#"><img alt="Brackets" title="Brackets" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" /></a></td>
-            <td><a href="#"><img alt="Socket.io" title="Socket.io" height="28px"
-                        src="https://socket.io/images/favicon.png" /></a></td>
-            <td><a href="#"><img alt="OOP" title="OOP" height="28px"
-                        src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-512.png" /></a></td>
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
+                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
             <td><a href="#"><img alt="Git" title="Git" height="28px"
                         src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" /></a></td>
         </tr>
