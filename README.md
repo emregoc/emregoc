@@ -14,7 +14,7 @@
 * 🎨 Front End tarafında da kendimi geliştiriyorum.
 * 📱 PHP(Laravel/Symfony) ile projeler üzerinde çalışıyorum.
 * 🎓 Yakın zamanda Flutter'a başladım.
-* 🌐 Bunlar dışında birden fazla Programlama dilleri(C#,C,C++,Java,Matlab) hakkında Üniversite de eğitim aldım.
+* 🌐 Bunlar dışında birden fazla Programlama dilleri(C#, C, C++, Java, Matlab) hakkında Üniversite de eğitim aldım.
 * 📺 Yazılım alanında pes etmeyen ve her zaman öğrenmeye devam eden bir yapıya sahibim.
 
 
