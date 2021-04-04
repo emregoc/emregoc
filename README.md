@@ -77,8 +77,8 @@
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
+            <td><a href="#"><img alt="Matlab" title="Matlab" height="28px"
+                        src="https://img1.pngindir.com/20181113/zfu/kisspng-logo-karlovac-brand-graphic-design-font-matlab-5beb76d27f1f35.3570732315421580345207.jpg" /></a></td>
             <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://i.imgur.com/eO5z1xV.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
