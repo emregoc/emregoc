@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="mailto:emregoc12asd@gmail.com"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
-  <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/emre-goc/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://github.com/emregoc"><img alt="GitHub" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -16,7 +15,7 @@
 * 📱 PHP(Laravel/Symfony) ile projeler üzerinde çalışıyorum.
 * 🎓 Yakın zamanda Flutter'a başladım.
 * 🌐 Bunlar dışında birden fazla Programlama dilleri(C#,C,C++,Java,Matlab) hakkında Üniversite de eğitim aldım.
-* 📺 Yazılım alanında pes etmeyen ve her zaman öğrenmeye yönelik bir yapıya sahibim.
+* 📺 Yazılım alanında pes etmeyen ve her zaman öğrenmeye devam eden bir yapıya sahibim.
 
 
 
