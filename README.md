@@ -6,38 +6,37 @@
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
   <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
   <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://www.hackerrank.com/emregoc12asd"><img alt="HackerRank" title="" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/emregoc"><img alt="GitHub" title="Follow me on Github" src=""/></a>
 </p>
 
-## 📖 About me
+## 📖 Hakkımda
 
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+* 💻 Back End geliştiricisiyim.
+* 🎨 Front End tarafında da kendimi geliştiriyorum.
+* 📱 PHP(Laravel/Symfony) ile projeler üzerinde çalışıyorum.
+* 🎓 Yakın zamanda Flutter'a başladım.
+* 🌐 Bunlar dışında birden fazla Programlama dilleri(C#,C,C++,Java,Matlab) hakkında Üniversite de eğitim aldım.
+* 📺 Yazılım alanında pes etmeyen ve her zaman öğrenmeye yönelik bir yapıya sahibim.
 
 
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/emregoc?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-## 🙋‍♂️ Connect with me:
+<h3 align="center">⬇ Repolarımı görmek için tıklayabilirsiniz  <a href="https://github.com/emregoc?tab=repositories">My repos</a>
+## 🙋‍♂️ Instagram ve LinkedIn Adresim
 
 <p align="left">
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <!--<a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
-  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <!-- <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> -->
+  <a href="https://instagram.com/emregocc7?igshid=5i4bew6pqdoo"><img alt="Instagram" title="Instagram" src="https://i.pinimg.com/originals/71/72/16/7172161b580470deb78078669236d2c1.jpg"/></a>
+  <a href="https://www.linkedin.com/in/emre-goc/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!--<a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <!-- <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> 
   <a href="https://jonahlawrence.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://dev.to/denvercoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
 </p>
 
 
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Programlama Dilleri ve Teknolojiler
 
 <table>
     <tbody>
