@@ -10,10 +10,10 @@
 
 ## 📖 Hakkımda
 
-* 💻 Back End geliştiricisiyim.
-* 🎨 Front End tarafında da kendimi geliştiriyorum.
+* 💻 Full-stack geliştiri olma yolunda ilerliyorum.
+* 🎨 Front End tarafında React ve mobil tarafta ise iOS'da kendimi geliştiriyorum.
 * 📱 PHP(Laravel/Symfony) ile projeler üzerinde çalışıyorum.
-* 🎓 Yakın zamanda Flutter'a başladım.
+* 🎓 Yakın zamanda iOS'a başladım ve projeler geliştiriyorum.
 * 🌐 Bunların dışında birden fazla Programlama dilleri(C#, C, C++, Java, Matlab) hakkında Üniversite de eğitim aldım ve projeler geliştirdim.
 * 📺 Yazılım alanında pes etmeyen ve her zaman öğrenmeye devam eden bir yapıya sahibim.
 
