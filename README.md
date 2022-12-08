@@ -10,11 +10,11 @@
 
 ## 📖 Hakkımda
 
-* 💻 Full-stack geliştiri olma yolunda ilerliyorum.
+* 💻 Full-stack geliştirici olma yolunda ilerliyorum.
 * 🎨 Front End tarafında React ve mobil tarafta ise iOS'da kendimi geliştiriyorum.
-* 📱 PHP(Laravel/Symfony) ile projeler üzerinde çalışıyorum.
+* 📱 Java Spring Boot ve PHP(Laravel/Symfony) ile projeler üzerinde çalışıyorum.
 * 🎓 Yakın zamanda iOS'a başladım ve projeler geliştiriyorum.
-* 🌐 Bunların dışında birden fazla Programlama dilleri(C#, C, C++, Java, Matlab) hakkında Üniversite de eğitim aldım ve projeler geliştirdim.
+* 🌐 Bunların dışında birden fazla Programlama dilleri(C#, C, C++, Matlab) hakkında Üniversite de eğitim aldım ve projeler geliştirdim.
 * 📺 Yazılım alanında pes etmeyen ve her zaman öğrenmeye devam eden bir yapıya sahibim.
 
 
